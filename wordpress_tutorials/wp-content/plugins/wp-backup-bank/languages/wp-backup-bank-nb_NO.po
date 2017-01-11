@@ -1,0 +1,2192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Backup Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-15 10:42+0530\n"
+"PO-Revision-Date: 2016-11-15 10:42+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Bokmål (Norway)\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18758\n"
+"X-Loco-Api-Version: 1.0.15 20161109-1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/translations.php:178
+msgid "* If you would like to translate in "
+msgstr "* Dersom du ønsker å oversette"
+
+#: includes/translations.php:179
+msgid ""
+"& help us, we will reward you with a free Personal Edition License of Backup "
+"Bank. If Interested, Kindly click "
+msgstr ""
+"og hjelpe oss, vil du få en gratis lisens. Dersom du er interessert, kan du "
+"klikke"
+
+#: includes/translations.php:181 includes/translations.php:238
+msgid "here"
+msgstr "her"
+
+#: includes/translations.php:190
+msgid "Success!"
+msgstr "Vellykket!"
+
+#: includes/translations.php:191
+msgid "Your request email has been sent Successfully"
+msgstr "Din e-post ble sendt"
+
+#: includes/translations.php:192
+msgid "The Backup has been Successfully Generated"
+msgstr "Sikkerhetskopien ble generert"
+
+#: includes/translations.php:193
+msgid "Email Templates have been saved Successfully"
+msgstr "Epostmalene ble lagret"
+
+#: includes/translations.php:194
+msgid "Please choose at least one Table for Backup!"
+msgstr "Velg minst en tabell for å sikkerhetskopiere!"
+
+#: includes/translations.php:195
+msgid "Alert Setup Settings have been saved Successfully"
+msgstr "Varslingsinnstillingene ble lagret"
+
+#: includes/translations.php:196
+msgid "Other Settings have been saved Successfully"
+msgstr "Innstillingene ble lagret"
+
+#: includes/translations.php:197
+msgid "Are you sure you want to delete Backup?"
+msgstr "Er du sikker på at du vil slette sikkerhetskopien?"
+
+#: includes/translations.php:198
+msgid "Are you sure you want to delete Backups?"
+msgstr "Er du sikker på at du vil slette sikkerhetskopiene?"
+
+#: includes/translations.php:199
+msgid "The Backup has been deleted Successfully"
+msgstr "Sikkerhetskopien ble slettet"
+
+#: includes/translations.php:200
+msgid "Selected Backups have been deleted Successfully"
+msgstr "Valgt(e) sikkerhetkopi(er) ble slettet"
+
+#: includes/translations.php:201
+msgid "Please choose at least 1 record to delete!"
+msgstr "Velg minst ett element å slette"
+
+#: includes/translations.php:202
+msgid "Please choose an Action from Dropdown!"
+msgstr "Velg handling i nedtrekksmenyen!"
+
+#: includes/translations.php:203
+msgid "FTP Settings have been saved Successfully"
+msgstr "FTP innstillingene ble lagret"
+
+#: includes/translations.php:204
+msgid "Email Settings have been saved Successfully"
+msgstr "E-post innstillingene ble lagret"
+
+#: includes/translations.php:205 includes/translations.php:212
+msgid "Incorrect Server Address!"
+msgstr "Feil serveradresse!"
+
+#: includes/translations.php:206
+msgid ""
+"Error Connecting FTP with details mentioned below. Please rectify and try "
+"again!"
+msgstr "Feil under tilkobling til FTP. Korriger infoen og prøv igjen!"
+
+#: includes/translations.php:207
+msgid ""
+"Error Validating DropBox Api Key or App Secret. Please rectify and try again!"
+msgstr ""
+"Kunne ikke validere DropBox API nøkkel eller sikkerhetsfrase. Endre og prøv "
+"igjen!"
+
+#: includes/translations.php:208
+msgid "Error uploading file. Please rectify and try again!"
+msgstr "Kunne ikke laste opp filen. Prøv igjen"
+
+#: includes/translations.php:209
+msgid "Error! Access to your Folder has been Cancelled"
+msgstr "Feil! Tilgang til mappen ble avbrutt"
+
+#: includes/translations.php:210
+msgid "Unfortunately, your Backup has been Terminated!"
+msgstr "Beklager, men sikkerhetskopien ble avbrutt"
+
+#: includes/translations.php:211
+msgid "Error establishing a DropBox connection or Access Token got Expired!"
+msgstr "Kunne ikke koble til DropBox eller så er AccessToken utløpt!"
+
+#: includes/translations.php:213
+msgid "Please choose a specific Backup File to download!"
+msgstr "Velg en sikkerhetskopi-fil å laste ned"
+
+#: includes/translations.php:214
+msgid "Please choose a specific Log File to download!"
+msgstr "Velg hvilken loggfil du ønsker å laste ned"
+
+#: includes/translations.php:215
+msgid "Please choose a Backup File"
+msgstr "Velg sikkerhetskopifil"
+
+#: includes/translations.php:216
+msgid "Please choose a Log File"
+msgstr "Velg loggfil"
+
+#: includes/translations.php:217
+msgid "In this field, you would need to choose a Backup File to download"
+msgstr "Her må du velge en sikkerhetskopi å laste ned"
+
+#: includes/translations.php:218
+msgid "In this field, you would need to choose a Log File to download"
+msgstr "Her må du velge loggfil du ønsker å laste ned"
+
+#: includes/translations.php:219
+msgid "Email couldn't be sent as Backup Size exceeds 20MB!"
+msgstr "Kunne ikke sende e-posten siden størrelsen overstiger 20 MB!"
+
+#: includes/translations.php:220
+msgid "Are you sure you would like to re-run this Backup?"
+msgstr "Er du sikker på at du vil kjøre denne sikkerhetskopien på nytt?"
+
+#: includes/translations.php:221
+msgid "FTP Settings are not configured!"
+msgstr "FTP innstillingene er ikke konfigurert!"
+
+#: includes/translations.php:222
+msgid "Email Settings are not configured!"
+msgstr "E-post innstillingene er ikke konfigurert!"
+
+#: includes/translations.php:223
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Dette valget er kun tilgjengelig i Premium versjonen!<br>Du må kjøpe "
+"fullversjonen for å låse opp!"
+
+#: includes/translations.php:224
+msgid "Translation Request"
+msgstr "Forespørsel om oversettelse"
+
+#: includes/translations.php:225
+msgid "Language Interested to Translate"
+msgstr "Hvilket språk er du interessert i å oversette"
+
+#: includes/translations.php:226
+msgid "Please choose a language which you want to translate"
+msgstr "Velg språk du ønsker å oversette"
+
+#: includes/translations.php:227
+msgid "Please provide a language"
+msgstr "Angi et språk"
+
+#: includes/translations.php:228
+msgid "Query"
+msgstr "Spørsmål"
+
+#: includes/translations.php:229
+msgid "Please provide your query"
+msgstr "Skriv inn et spørsmål"
+
+#: includes/translations.php:230
+msgid "Please provide a query"
+msgstr "Oppgi et spørsmål"
+
+#: includes/translations.php:231
+msgid "Are you sure you want to close without sending Translation Request?"
+msgstr "Er du sikker på at du vil lukke uten å sende forespørselen?"
+
+#: includes/translations.php:232 includes/translations.php:456
+msgid "Please provide your Name"
+msgstr "Vennligst oppgi navnet ditt"
+
+#: includes/translations.php:233
+msgid "Please provide your Email"
+msgstr "Oppgi din e-postadresse"
+
+#: includes/translations.php:236 includes/translations.php:639
+msgid "Important Disclaimer!"
+msgstr "Viktig informasjon!"
+
+#: includes/translations.php:237
+msgid " to see Premium Edition Features in detail"
+msgstr "for å se Premium Edition funksjonene i detalj"
+
+#: includes/translations.php:239
+msgid "* Click "
+msgstr "* Klikk"
+
+#: includes/translations.php:240
+msgid "* Saving / Updating Amazon S3 Settings"
+msgstr "* Lagrer / Oppdaterer Amazon S3 innstillingene"
+
+#: includes/translations.php:241
+msgid "* Schedule Backup"
+msgstr "* Planlegg sikkerhetskopi"
+
+#: includes/translations.php:242
+msgid "* DB Compression type .sql.bz2"
+msgstr "* DB kompresjonstype .sql.bz2"
+
+#: includes/translations.php:243
+msgid "* File Compression type .tar.bz2"
+msgstr "* Filkompresjonstype .tar.bz2"
+
+#: includes/translations.php:244
+msgid "* Complete Backup"
+msgstr "* Fullfør sikkerhetskopi"
+
+#: includes/translations.php:245
+msgid ""
+"* Remote Storage to Amazon S3, Dropbox, Email, FTP, Google Drive, OneDrive, "
+"Rackspace and Microsoft Azure"
+msgstr ""
+"* Ekstern lagring til Amazon S3, DropBox, Epost, FTP, Gooble Drive, "
+"OneDrive, Rackspace og Microsoft Azure"
+
+#: includes/translations.php:246
+msgid "* Saving / Updating Google Drive Settings"
+msgstr "* Lagrer / Oppdaterer Google Drive innstillingene"
+
+#: includes/translations.php:247
+msgid "* Saving / Updating OneDrive Settings"
+msgstr "* Lagrer / Oppdaterer OneDrive innstillingene"
+
+#: includes/translations.php:248
+msgid "* Saving / Updating Dropbox Settings"
+msgstr "* Lagrer / Oppdaterer DropBox innstillingene"
+
+#: includes/translations.php:249
+msgid "* Saving / Updating Rackspace Settings"
+msgstr "* Lagrer / Oppdaterer Rackspace innstillingene"
+
+#: includes/translations.php:250
+msgid "* Saving / Updating Microsoft Azure Settings"
+msgstr "* Lagrer / Oppdaterer Microsoft Azure innstillingene"
+
+#: includes/translations.php:251
+msgid "* Only 5 Backups are allowed in this Edition"
+msgstr "* Du kan maks ha 5 sikkerhetskopier i denne utgaven"
+
+#: includes/translations.php:252
+msgid "* Editing Email Templates"
+msgstr "* Endrer e-postmaler"
+
+#: includes/translations.php:253
+msgid "* Saving Roles & Capabilities"
+msgstr "* Lagrer roller og kapabiliteter"
+
+#: includes/translations.php:254
+msgid "* For Backup Bank Demos, click "
+msgstr "* For sikkerhetskopidemo, klikk"
+
+#: includes/translations.php:255
+msgid "* Purge Backups"
+msgstr "* Renser opp i sikkerhetskopiene"
+
+#: includes/translations.php:256
+msgid "* Restore Backup"
+msgstr "* Gjenopprett sikkerhetskopi"
+
+#: includes/translations.php:257
+msgid "* For Backup Bank User Guide for this page, click "
+msgstr "* For bruksanvisning klikk"
+
+#: includes/translations.php:258
+msgid "(Only Available in Premium Editions!)"
+msgstr "(Kun tilgjengelig i Premium-utgaver!)"
+
+#: includes/translations.php:261
+msgid "WP Backup Bank"
+msgstr "WP Backup Bank"
+
+#: includes/translations.php:262
+msgid "Manage Backups"
+msgstr "Behandle sikkerhetskopier"
+
+#: includes/translations.php:263 includes/translations.php:468
+msgid "Schedule Backup"
+msgstr "Planlegg sikkerhetskopi"
+
+#: includes/translations.php:264
+msgid "General Settings"
+msgstr "Innstillinger"
+
+#: includes/translations.php:265
+msgid "Alert Setup"
+msgstr "Varselinnstillinger"
+
+#: includes/translations.php:266
+msgid "Other Settings"
+msgstr "Andre innstillinger"
+
+#: includes/translations.php:267
+msgid "Dropbox Settings"
+msgstr "Dropbox - innstillinger"
+
+#: includes/translations.php:268
+msgid "Email Settings"
+msgstr "Epost - innstillinger"
+
+#: includes/translations.php:269
+msgid "FTP Settings"
+msgstr "FTP - innstillinger"
+
+#: includes/translations.php:270
+msgid "Email Templates"
+msgstr "E-post maler"
+
+#: includes/translations.php:271
+msgid "Roles & Capabilities"
+msgstr "Roller og kapabiliteter"
+
+#: includes/translations.php:272
+msgid "Feature Requests"
+msgstr "Forespørsler om tillegg"
+
+#: includes/translations.php:273
+msgid "System Information"
+msgstr "Systeminformasjon"
+
+#: includes/translations.php:274
+msgid "Licensing"
+msgstr "Lisens"
+
+#: includes/translations.php:275
+msgid "Backups / Restore"
+msgstr "Sikkerhetskopier / Tilbakekopier"
+
+#: includes/translations.php:276
+msgid "OneDrive Settings"
+msgstr "OneDrive - innstillinger"
+
+#: includes/translations.php:277
+msgid "Google Drive Settings"
+msgstr "Google Drive - innstillinger"
+
+#: includes/translations.php:278
+msgid "Amazon S3 Settings"
+msgstr "Amazon S3 - innstillinger"
+
+#: includes/translations.php:279
+msgid "Rackspace Settings"
+msgstr "Rackspace - innstillinger"
+
+#: includes/translations.php:280
+msgid "Microsoft Azure Settings"
+msgstr "Microsoft Azure - innstillinger"
+
+#: includes/translations.php:284
+msgid "Save Changes"
+msgstr "Lagre"
+
+#: includes/translations.php:285
+msgid "Enable"
+msgstr "Aktiver"
+
+#: includes/translations.php:286
+msgid "Disable"
+msgstr "Deaktiver"
+
+#: includes/translations.php:287
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Du har ikke tilstrekkelig tilgang til denne siden. Kontakt administratoren "
+"din."
+
+#: includes/translations.php:288
+msgid "Backup Name"
+msgstr "Sikkerhetskopi - navn"
+
+#: includes/translations.php:289
+msgid "Backup Type"
+msgstr "Sikkerhetskopi - type"
+
+#: includes/translations.php:290
+msgid "App Key"
+msgstr "Appnøkkel"
+
+#: includes/translations.php:291
+msgid "Subject"
+msgstr "Emne"
+
+#: includes/translations.php:292
+msgid "In this field, you would need to provide a title to your backup"
+msgstr "Her navngir du sikkerhetskopien"
+
+#: includes/translations.php:293
+msgid "Please provide Backup Title "
+msgstr "Oppgi en tittel for sikkerhetskopien"
+
+#: includes/translations.php:294
+msgid ""
+"In this field, you would need to choose the type of backup that you would "
+"like to create"
+msgstr "Her velger du hvilken type sikkerhetskopi du ønsker å opprette"
+
+#: includes/translations.php:295
+msgid "Complete Backup"
+msgstr "Komplett sikkerhetskopi"
+
+#: includes/translations.php:296
+msgid "Only Database"
+msgstr "Kun databasen"
+
+#: includes/translations.php:297
+msgid "Only Filesystem"
+msgstr "Kun filsystemet"
+
+#: includes/translations.php:298
+msgid "Only Plugins and Themes"
+msgstr "Kun tillegg og temaer"
+
+#: includes/translations.php:299
+msgid "Only Themes"
+msgstr "Kun temaer"
+
+#: includes/translations.php:300
+msgid "Only Plugins"
+msgstr "Kun tillegg"
+
+#: includes/translations.php:301
+msgid "Only WP Content Folder"
+msgstr "Kun WP innholdsmappe"
+
+#: includes/translations.php:302
+msgid "Exclude List"
+msgstr "Ekskluderingsliste"
+
+#: includes/translations.php:303
+msgid ""
+"In this field, you would need to provide extensions separating by commas to "
+"exclude those files from list"
+msgstr ""
+"Her må du angi utvidelser separert med komma for å ta dem bort fra listen"
+
+#: includes/translations.php:304
+msgid "Please provide file extensions"
+msgstr "Oppgi filendelser"
+
+#: includes/translations.php:305
+msgid "File Compression Type"
+msgstr "Filkompresjonstype"
+
+#: includes/translations.php:306
+msgid ""
+" In this field, you would need to choose compression type for your backup "
+"file from dropdown"
+msgstr "Her må du velge hvilken kompresjon du ønsker for sikkerhetskopien"
+
+#: includes/translations.php:307
+msgid "DB Compression Type"
+msgstr "DB Kompresjonstype"
+
+#: includes/translations.php:308
+msgid ""
+"In this field, you would need to choose compression type for your database "
+"backup file from dropdown"
+msgstr "Her må du velge hvilken kompresjon du ønsker for databasekopien"
+
+#: includes/translations.php:309
+msgid "Backup Destination"
+msgstr "Destinasjon for sikkerhetskopien"
+
+#: includes/translations.php:310
+msgid ""
+"In this field, you would need to choose storage space for your backup from "
+"dropdown. Before this, you would need to configure settings of remote storage"
+msgstr "Her velger du hvor du vil lagre sikkerhetskopien"
+
+#: includes/translations.php:311
+msgid "Local Folder"
+msgstr "Lokal mappe"
+
+#: includes/translations.php:312
+msgid "Dropbox"
+msgstr "DropBox"
+
+#: includes/translations.php:313
+msgid "OneDrive"
+msgstr "OneDrive"
+
+#: includes/translations.php:314
+msgid "Email"
+msgstr "E-post"
+
+#: includes/translations.php:315
+msgid "FTP"
+msgstr "FTP"
+
+#: includes/translations.php:316
+msgid "Dropbox (Only Available in Premium Editions!)"
+msgstr "DropBox (Kun i premium edition!)"
+
+#: includes/translations.php:317
+msgid "Email (Not configured!)"
+msgstr "E-post (ikke konfigurert!)"
+
+#: includes/translations.php:318
+msgid "FTP (Not configured!)"
+msgstr "FTP (ikke konfigurert!)"
+
+#: includes/translations.php:319
+msgid "Please choose Tables for Backup"
+msgstr "Velg hvilke tabeller du ønsker å sikkerhetskopiere"
+
+#: includes/translations.php:320
+msgid "Backup Tables"
+msgstr "Sikkerhetskopier tabeller"
+
+#: includes/translations.php:321
+msgid ""
+"In this field, you would need to choose tables for which you would like to "
+"take a backup"
+msgstr "Her velger du hvilke tabeller du ønsker å ta en sikkerhetskopi av"
+
+#: includes/translations.php:322
+msgid "Archive Name"
+msgstr "Arkivnavn"
+
+#: includes/translations.php:323
+msgid ""
+"In this field, you would need to provide the name and format in which you "
+"would like to save your backup file"
+msgstr "Her oppgir du navn og format på sikkerhetskopien din"
+
+#: includes/translations.php:324
+msgid "Please provide your Archive Name"
+msgstr "Angi et arkivnavn"
+
+#: includes/translations.php:325
+msgid "Preview"
+msgstr "Forhåndsvis"
+
+#: includes/translations.php:326
+msgid "Start Backup"
+msgstr "Start sikkerhetskopiering!"
+
+#: includes/translations.php:327
+msgid "Folder Location"
+msgstr "Mappelokasjon"
+
+#: includes/translations.php:328
+msgid ""
+"In this field, you would need to provide a Local Folder path to store your "
+"Backup"
+msgstr "Her må du angi en lokal mappe for sikkerhetskopien"
+
+#: includes/translations.php:329
+msgid "Please provide a Local Folder Path"
+msgstr "Oppgi en lokal mappe"
+
+#: includes/translations.php:330
+msgid "CC"
+msgstr "Mottaker"
+
+#: includes/translations.php:331
+msgid "BCC"
+msgstr "Blindkopi"
+
+#: includes/translations.php:332
+msgid "Please provide CC Email Address"
+msgstr "Oppgi en mottaker e-post"
+
+#: includes/translations.php:333
+msgid "Please provide BCC Email Address"
+msgstr "Oppgi mottaker av blindkopi"
+
+#: includes/translations.php:334
+msgid ""
+"In this field, you would need to provide a valid Email Address where you "
+"would like to send backup with backup details"
+msgstr ""
+"Her må du angi hvilken e-post adresse du ønsker å få sikkerhetskopidetaljene "
+"til"
+
+#: includes/translations.php:335
+msgid " ( Extension not supported )"
+msgstr "( Utvidelen er ikke støttet )"
+
+#: includes/translations.php:336
+msgid "Message"
+msgstr "Beskjed"
+
+#: includes/translations.php:337
+msgid ""
+"In this field, you would need to provide message which has to be sent to "
+"user when the backup is successfully scheduled"
+msgstr ""
+"Her skriver du inn en melding som mottakeren får når sikkerhetskopien er "
+"planlagt"
+
+#: includes/translations.php:338
+msgid " In this field, you would need to provide valid CC Email Address"
+msgstr "Her må du skrive inn en gyldig e-post mottaker"
+
+#: includes/translations.php:339
+msgid "In this field, you would need to provide valid BCC Email Address"
+msgstr "Her skriver du inn mottakeren av blindkopi"
+
+#: includes/translations.php:340
+msgid "Database Backup"
+msgstr "Sikkerhetskopi av database"
+
+#: includes/translations.php:341
+msgid "Plugins Backup"
+msgstr "Sikkerhetskopi av tillegg"
+
+#: includes/translations.php:342
+msgid "Plugins and Themes Backup"
+msgstr "Sikkerhetskopi av Tillegg og Maler"
+
+#: includes/translations.php:343
+msgid "Themes Backup"
+msgstr "Sikkerhetskopi av Maler"
+
+#: includes/translations.php:344
+msgid "Contents Backup"
+msgstr "Sikkerhetskopi av Innhold"
+
+#: includes/translations.php:345
+msgid "Filesystem Backup"
+msgstr "Sikkerhetskopi av Filsystemet"
+
+#: includes/translations.php:346
+msgid "Never"
+msgstr "Aldri"
+
+#: includes/translations.php:347
+msgid "N/A"
+msgstr "I/T"
+
+#: includes/translations.php:348
+msgid "OneDrive (Only Available in Premium Editions!)"
+msgstr "OneDrive (Kun i premium edition!)"
+
+#: includes/translations.php:349
+msgid "Google Drive (Only Available in Premium Editions!)"
+msgstr "Google Drive (Kun i premium edition!)"
+
+#: includes/translations.php:350
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: includes/translations.php:351
+msgid "Redirect URI"
+msgstr "Videresendings URI"
+
+#: includes/translations.php:352
+msgid ""
+"Please copy this URI and paste into Redirect URI field when creating your app"
+msgstr "Kopi denne URIen og lim den inn i videresendings URIen "
+
+#: includes/translations.php:353
+msgid "Amazon S3 (Only Available in Premium Editions!)"
+msgstr "Amazon S3 (Kun i premium edition!)"
+
+#: includes/translations.php:354
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+#: includes/translations.php:355
+msgid "Rackspace (Only Available in Premium Editions!)"
+msgstr "Rackspace (Kun i premium edition!)"
+
+#: includes/translations.php:356
+msgid "Rackspace"
+msgstr "Rackspace"
+
+#: includes/translations.php:357
+msgid "Microsoft Azure (Only Available in Premium Editions!)"
+msgstr "Microsoft Azure (Kun i premium edition!)"
+
+#: includes/translations.php:358
+msgid "Microsoft Azure"
+msgstr "Microsoft Azure"
+
+#: includes/translations.php:361
+msgid "Show Backup Bank Menu"
+msgstr "Vis Backup Bank - menyen"
+
+#: includes/translations.php:362
+msgid ""
+"In this field, you would need to choose a specific role which can see "
+"Sidebar Menu"
+msgstr "Her kan du angi hvilke roller som kan se sidemenyen"
+
+#: includes/translations.php:363
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/translations.php:364
+msgid "Author"
+msgstr "Forfatter"
+
+#: includes/translations.php:365
+msgid "Editor"
+msgstr "Redaktør"
+
+#: includes/translations.php:366
+msgid "Contributor"
+msgstr "Bidragsyter"
+
+#: includes/translations.php:367
+msgid "Subscriber"
+msgstr "Abonnent"
+
+#: includes/translations.php:368
+msgid "Show Backup Bank Top Bar Menu"
+msgstr "Vis Backup Bank toppmeny"
+
+#: includes/translations.php:369
+msgid ""
+"In this field, you would need to choose a specific option to show Backup "
+"Bank Top Bar Menu"
+msgstr "Her velger du innstillinger for toppmenyen"
+
+#: includes/translations.php:370
+msgid "An Administrator Role can do the following "
+msgstr "En administrator kan gjøre følgende"
+
+#: includes/translations.php:371
+msgid ""
+"Administrators will have by default full control to manage different options "
+"in Backup Bank, so all checkboxes will already be selected for the "
+"Administrator Role as mentioned below"
+msgstr ""
+"Administrator har full kontroll over alle innstillinger, så alle valgene er "
+"allerede merket"
+
+#: includes/translations.php:372
+msgid "Full Control"
+msgstr "Full kontroll"
+
+#: includes/translations.php:373
+msgid "An Author Role can do the following "
+msgstr "En forfatter kan gjøre"
+
+#: includes/translations.php:374
+msgid ""
+"You can choose what pages could be accessed by users having an Author Role "
+"on your Backup Bank Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr "Du kan velge hvilke sider en forfatter kan ha tilgang til"
+
+#: includes/translations.php:375
+msgid "An Editor Role can do the following "
+msgstr "En redaktørrolle kan gjøre følgende"
+
+#: includes/translations.php:376
+msgid ""
+"You can choose what pages could be accessed by users having Editor Role on "
+"your Backup Bank Plugin. This could be achieved with the help of checkboxes "
+"mentioned below"
+msgstr "Du kan velge hvilke sider en redaktør kan besøke"
+
+#: includes/translations.php:377
+msgid "A Contributor Role can do the following "
+msgstr "An bidragsyter kan gjøre følgende"
+
+#: includes/translations.php:378
+msgid ""
+"You can choose what pages could be accessed by  users having Contributor "
+"Role on your Backup Bank Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr "Du kan velge hvilke sider en bidragsyter kan besøke"
+
+#: includes/translations.php:379
+msgid "A Subscriber Role can do the following"
+msgstr "En abonnent kan gjøre følgende"
+
+#: includes/translations.php:380
+msgid ""
+"You can choose what pages could be accessed by users having a Subscriber "
+"Role on your Backup Bank Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr "Du velger hvilke sider en abonnent kan besøke"
+
+#: includes/translations.php:381
+msgid "Other Roles can do the following"
+msgstr "Andre roller kan gjøre følgende"
+
+#: includes/translations.php:382
+msgid "Please choose specific page available for Others Role Access"
+msgstr "Velg spesifike sider som andre roller kan besøke"
+
+#: includes/translations.php:383
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Velg riktig kapabilitet av sikkerhetsgrunner"
+
+#: includes/translations.php:384
+msgid "Only users with these capabilities can access Backup Bank"
+msgstr "Kun bruker med disse kapabilitetene kan bruke Backup Bank"
+
+#: includes/translations.php:385
+msgid "Others"
+msgstr "Andre"
+
+#: includes/translations.php:388
+msgid "Get your OneDrive Application Id & Application Secrets"
+msgstr "Få tak i din OneDrive Applikasjons ID og applikasjonsnøkkel"
+
+#: includes/translations.php:389
+msgid "Backup to OneDrive"
+msgstr "Sikkerhetskopier til OneDrive"
+
+#: includes/translations.php:390
+msgid ""
+"If you would like to store your Backup over OneDrive then you would need to "
+"choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker å lagre sikkerhetskopien på OneDrive, velger du det fra "
+"nedtrekksmenyen"
+
+#: includes/translations.php:391
+msgid ""
+"In this field, you would need to provide Application Id. It is an "
+"alphanumeric string which you will get by signing-in into OneDrive account"
+msgstr ""
+"Her oppgir du applikasjons ID. Dette er en alfanumerisk strenge du får når "
+"du signerer inn på din OneDrive - konto"
+
+#: includes/translations.php:392
+msgid "Please provide valid Application Id"
+msgstr "Oppgi en gyldig Applikasjons ID"
+
+#: includes/translations.php:393
+msgid "Application Secrets"
+msgstr "Applikasjon : tilgangsnøkkel"
+
+#: includes/translations.php:394
+msgid ""
+"In this field, you would need to provide Application Secrets which will you "
+"get after configuring your OneDrive account"
+msgstr ""
+"I dette feltet må du opp en sikkerhetsnøkkel som du får når du konfigurerer "
+"din OneDrive - konto"
+
+#: includes/translations.php:395
+msgid "Please provide valid Application Secrets"
+msgstr "Angi en gyldig sikkerhetsnøkkel"
+
+#: includes/translations.php:396
+msgid "Application Id"
+msgstr "Applikasjons ID"
+
+#: includes/translations.php:397
+msgid "Create new OneDrive Live SDK Application"
+msgstr "Opprett ny OneDrive Live SDK applikasjon"
+
+#: includes/translations.php:400
+msgid "Backup to Amazon S3"
+msgstr "Sikkerhetskopier til Amazon S3"
+
+#: includes/translations.php:401
+msgid ""
+"If you would like to store your Backup over Amazon S3 then you would need to "
+"choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker å lagre sikkerhetskopien på Amazon S3, velger du det fra "
+"nedtrekksmenyen"
+
+#: includes/translations.php:402
+msgid "Access Key Id"
+msgstr "Applikasjons ID"
+
+#: includes/translations.php:403
+msgid ""
+"In this field, you would need to provide Access Key Id. It is an "
+"alphanumeric text string which you will get by signing-in into Amazon S3 "
+"account"
+msgstr ""
+"I dette feltet må du opp en sikkerhetsnøkkel som du får når du konfigurerer "
+"din Amazon S3 - konto"
+
+#: includes/translations.php:404
+msgid "Please provide valid Access Key Id"
+msgstr "Angi en gyldig sikkerhetsnøkkel"
+
+#: includes/translations.php:405
+msgid "Secret Access Key"
+msgstr "Hemmelig tilgangsnøkkel"
+
+#: includes/translations.php:406
+msgid ""
+"In this field, you would need to provide Secret Access Key which will you "
+"get after configuring your Amazon S3 account"
+msgstr ""
+"Her må du angi din hemmelige sikkerhetsnøkkel, som du får når du har "
+"konfigurert din Amazon S3 - konto"
+
+#: includes/translations.php:407
+msgid "Please provide valid Secret Access Key"
+msgstr "Angi en gyldig hemmelig tilgangsnøkkel"
+
+#: includes/translations.php:408
+msgid "Bucket Name"
+msgstr "Bucket navn"
+
+#: includes/translations.php:409
+msgid ""
+"In this field, you would need to provide Bucket Name which will you get from "
+"your Amazon S3 account"
+msgstr ""
+"Her må du angi ditt bucket navn som du får når du konfigurerer din Amazon S3 "
+"- konto"
+
+#: includes/translations.php:410
+msgid "Please provide valid Bucket Name"
+msgstr "Angi et gyldig bucket navn"
+
+#: includes/translations.php:411
+msgid "Get your Amazon Access Key Id & Secret Access Key"
+msgstr "Skaff din Amazon tilgangsnøkkel og tilgangs ID"
+
+#: includes/translations.php:414
+msgid "Backup to Rackspace"
+msgstr "Sikkerhetskopier til Rackspace"
+
+#: includes/translations.php:415
+msgid ""
+"If you would like to store your Backup over Rackspace then you would need to "
+"choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker å sikkerhetskopiere til Rackspace, må du velge dette fra "
+"nedtrekksmenyen"
+
+#: includes/translations.php:416 includes/translations.php:595
+msgid "Username"
+msgstr "Brukernavn"
+
+#: includes/translations.php:417
+msgid ""
+" In this field, you would need to provide Rackspace Username. You will get "
+"your username by signing-in into Rackspace account"
+msgstr "Her skriver du inn ditt Rackspace brukernavn"
+
+#: includes/translations.php:418
+msgid "Please provide valid Username"
+msgstr "Angi et gyldig brukernavn"
+
+#: includes/translations.php:419
+msgid "Api Key"
+msgstr "API nøkkel"
+
+#: includes/translations.php:420
+msgid ""
+"In this field, you would need to provide API Key which will you get after "
+"configuring your Rackspace account"
+msgstr ""
+"Her angir du din API - nøkkel, som du mottar etter å ha konfigurert din "
+"Rackspace konto"
+
+#: includes/translations.php:421
+msgid "Please provide valid Api Key"
+msgstr "Angi en gyldig API nøkkel"
+
+#: includes/translations.php:422 includes/translations.php:444
+msgid "Container Name"
+msgstr "Kontainernavn"
+
+#: includes/translations.php:423
+msgid ""
+"In this field, you would need to provide Container Name. you will get it "
+"from your Rackspace account"
+msgstr ""
+"Her må du oppgi ditt kontainernavn. Dette får du fra din Rackspace - konto"
+
+#: includes/translations.php:424 includes/translations.php:446
+msgid "Please provide a valid container name"
+msgstr "Angi et gyldig kontainernavn"
+
+#: includes/translations.php:425
+msgid "Container Region"
+msgstr "Kontainerregion"
+
+#: includes/translations.php:426
+msgid ""
+"In this field, you would need to choose a region where your Rackspace "
+"container is created"
+msgstr "Her må du angi hvilken region du har opprettet din Rackspace kontainer"
+
+#: includes/translations.php:427
+msgid "Dallas (DFW)"
+msgstr "Dallas (DFW)"
+
+#: includes/translations.php:428
+msgid "Northern Virginia (IAD)"
+msgstr "Nordre Virginia (IAD)"
+
+#: includes/translations.php:429
+msgid "Chicago (ORD)"
+msgstr "Chicago (ORD)"
+
+#: includes/translations.php:430
+msgid "London (LON)"
+msgstr "London (LON)"
+
+#: includes/translations.php:431
+msgid "Sydney (SYD)"
+msgstr "Sydney (SYD)"
+
+#: includes/translations.php:432
+msgid "Hong Kong (HKG)"
+msgstr "Hong Kong (HKG)"
+
+#: includes/translations.php:433
+msgid "Get your Rackspace Username & Api key"
+msgstr "Få ditt Rackspace brukernavn og API nøkkel"
+
+#: includes/translations.php:436
+msgid "Backup to Microsoft Azure"
+msgstr "Sikkerhetskopier til Microsoft Azure"
+
+#: includes/translations.php:437
+msgid ""
+"If you would like to store your Backup over Microsoft Azure then you would "
+"need to choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker å sikkerhetskopiere til Microsoft Azure, velger du dette "
+"fra nedtrekksmenyen"
+
+#: includes/translations.php:438
+msgid "Account Name"
+msgstr "Kontonavn"
+
+#: includes/translations.php:439
+msgid ""
+"In this field, you would need to provide Microsoft Azure Account Name. You "
+"will get your account name by signing-in to Microsoft Azure account"
+msgstr "Her angir du ditt Microsoft Azure kontonavn"
+
+#: includes/translations.php:440
+msgid "Please provide valid Account Name"
+msgstr "Angi et gyldig kontonavn"
+
+#: includes/translations.php:441
+msgid "Access Key"
+msgstr "Tilgangsnøkkel"
+
+#: includes/translations.php:442
+msgid ""
+"In this field, you would need to provide Access Key which will you get after "
+"configuring your Microsoft Azure account"
+msgstr ""
+"Her skriver du inn din tilgangsnøkkel, som du får etter å ha konfigurert din "
+"Microsoft Azure konto"
+
+#: includes/translations.php:443
+msgid "Please provide valid Access Key"
+msgstr "Angi en gyldig tilgangsnøkkel"
+
+#: includes/translations.php:445
+msgid ""
+" In this field, you would need to provide Container Name. You will get it "
+"from your Microsoft Azure account"
+msgstr ""
+"Her skriver du inn kontainernavnet. Dette får du fra din Microsoft Azure - "
+"konto"
+
+#: includes/translations.php:447
+msgid "Get your Azure Account Name & Access Key"
+msgstr "Få ditt Microsoft Azure kontonavn og tilgangsnøkkel"
+
+#: includes/translations.php:450
+msgid "Thank You!"
+msgstr "Takk!"
+
+#: includes/translations.php:451
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Dersom du har forslag til andre ting vi bør implementere, kan du gjerne "
+"fylle ut skjemaet nedenfor."
+
+#: includes/translations.php:452
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Dersom du har forslag / innsigelser / klager, kan du også bruke nedenstående "
+"skjema"
+
+#: includes/translations.php:453
+msgid "You can also write us on"
+msgstr "Du kan også kontakte oss på"
+
+#: includes/translations.php:454
+msgid "Your Name"
+msgstr "Navn"
+
+#: includes/translations.php:455
+msgid ""
+"In this field, you would need to provide your Name which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"I dette feltet må du skrive inn navnet du ønsker for å bli lagt til tillegget"
+
+#: includes/translations.php:457
+msgid "Your Email"
+msgstr "Din e-post"
+
+#: includes/translations.php:458
+msgid ""
+"In this field, you would need to provide your valid Email Address which you "
+"would like to request to be added to this Plugin"
+msgstr ""
+"I dette feltet skriver du inn en gyldig e-postadresse som du ønsker å knytte "
+"til tillegget"
+
+#: includes/translations.php:459
+msgid "Please provide your Email Address"
+msgstr "Vennligst oppgi din e-postadresse"
+
+#: includes/translations.php:460
+msgid ""
+"In this field, you would need to provide a feature which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"I dette feltet skriver du litt om hvilken egenskap du ønsker at skal bli "
+"lagt til tillegget"
+
+#: includes/translations.php:461
+msgid "Please provide your Feature Request"
+msgstr "Vennligst oppgi din forespørsel"
+
+#: includes/translations.php:462
+msgid "Send Request"
+msgstr "Send forespørsel"
+
+#: includes/translations.php:465
+msgid "Destination"
+msgstr "Destinasjon"
+
+#: includes/translations.php:466
+msgid "Execution"
+msgstr "Utførelse"
+
+#: includes/translations.php:467
+msgid "Status"
+msgstr "Status"
+
+#: includes/translations.php:469
+msgid "Action"
+msgstr "Handling"
+
+#: includes/translations.php:470
+msgid "Manual"
+msgstr "Manuell"
+
+#: includes/translations.php:471
+msgid "Scheduled"
+msgstr "Planlagt"
+
+#: includes/translations.php:472
+msgid "Not Yet Executed"
+msgstr "Ikke utført enda"
+
+#: includes/translations.php:473
+msgid "Backup is Running"
+msgstr "Sikkerhetskopiering pågår"
+
+#: includes/translations.php:474
+msgid "Delete"
+msgstr "Slett"
+
+#: includes/translations.php:475
+msgid "Download"
+msgstr "Last ned"
+
+#: includes/translations.php:476 includes/translations.php:492
+msgid "Restore Backup"
+msgstr "Tilbakekopier sikkerhetskopi"
+
+#: includes/translations.php:477
+msgid "Bulk Action"
+msgstr "Massehandling"
+
+#: includes/translations.php:478
+msgid "Apply"
+msgstr "Utfør"
+
+#: includes/translations.php:479
+msgid "Backup Terminated"
+msgstr "Sikkerhetskopien ble avbrutt"
+
+#: includes/translations.php:480
+msgid "Backup Completed Successfully"
+msgstr "Sikkerhetskopieringen ble fullført"
+
+#: includes/translations.php:481
+msgid "Executed In"
+msgstr "Utført på"
+
+#: includes/translations.php:482
+msgid "Total Size"
+msgstr "Total størrelse"
+
+#: includes/translations.php:483
+msgid "Backup Details"
+msgstr "Detaljer"
+
+#: includes/translations.php:484
+msgid "Last Execution"
+msgstr "Sist utført"
+
+#: includes/translations.php:485
+msgid "Next Execution"
+msgstr "Neste utførelse"
+
+#: includes/translations.php:486
+msgid "Last Status"
+msgstr "Nyeste status"
+
+#: includes/translations.php:487
+msgid "Log"
+msgstr "Logg"
+
+#: includes/translations.php:488 includes/translations.php:490
+msgid "Download Backup"
+msgstr "Last ned sikkerhetskopi"
+
+#: includes/translations.php:489
+msgid "Close"
+msgstr "Lukk"
+
+#: includes/translations.php:491
+msgid "Download Log File"
+msgstr "Last ned loggfil"
+
+#: includes/translations.php:493
+msgid "Select Backup"
+msgstr "Velg sikkerhetskopi"
+
+#: includes/translations.php:494
+msgid "Select Log File"
+msgstr "Velg loggfil"
+
+#: includes/translations.php:495
+msgid "Backup Restored Successfully"
+msgstr "Tilbakekopieringen var vellykket"
+
+#: includes/translations.php:496
+msgid "Backup Restore Terminated"
+msgstr "Tilbakekopieringen ble avbrutt"
+
+#: includes/translations.php:497
+msgid "Purge Backups"
+msgstr "Rens opp i sikkerhetskopiene"
+
+#: includes/translations.php:498
+msgid "Compression Type"
+msgstr "Kompresjonstype"
+
+#: includes/translations.php:499
+msgid "re-run"
+msgstr "kjør på nytt"
+
+#: includes/translations.php:500
+msgid "Backup Taken On "
+msgstr "Sikkerhetskopi tatt den"
+
+#: includes/translations.php:501
+msgid "Backup Restore On "
+msgstr "Sikkerhetskopien tilbakeført den"
+
+#: includes/translations.php:502
+msgid "Uploading Backup to Ftp"
+msgstr "Laster opp sikkerhetskopien til Ftp"
+
+#: includes/translations.php:503
+msgid "Uploading Backup to Email"
+msgstr "Laster opp sikkerhetskopien til E-post"
+
+#: includes/translations.php:504
+msgid "Uploading Backup to Dropbox"
+msgstr "Laster opp sikkerhetskopien til Dropbox"
+
+#: includes/translations.php:505
+msgid "Uploading Backup to OneDrive"
+msgstr "Laster opp sikkerhetskopien til OneDrive"
+
+#: includes/translations.php:506
+msgid "Uploading Backup to Google Drive"
+msgstr "Laster opp sikkerhetskopien til Google Drive"
+
+#: includes/translations.php:507
+msgid "Uploading Backup to Amazon s3"
+msgstr "Laster opp sikkerhetskopien til Amazon S3"
+
+#: includes/translations.php:508
+msgid "Uploading Backup to Rackspace"
+msgstr "Laster opp sikkerhetskopien til Rackspace"
+
+#: includes/translations.php:509
+msgid "Uploading Backup to Microsoft Azure"
+msgstr "Laster opp sikkerhetskopien til Microsoft Azure"
+
+#: includes/translations.php:512
+msgid "Choose Email Template"
+msgstr "Velg e-posttema"
+
+#: includes/translations.php:513
+msgid ""
+"In this field, you would need to choose a specific template to configure "
+"Settings"
+msgstr "Her må du velge et spesifikt tema for å konfigurere innstillingene"
+
+#: includes/translations.php:514
+msgid "Send To"
+msgstr "Send til"
+
+#: includes/translations.php:515
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"would like to send an email notification when the backup is successfully "
+"generated"
+msgstr ""
+"Her skriver du inn epostadressen din, der du vil at varselet om fullført "
+"sikkerhetskopi skal sendes"
+
+#: includes/translations.php:516 includes/translations.php:585
+msgid "Please provide Email Address"
+msgstr "Oppgi e-post"
+
+#: includes/translations.php:517
+msgid ""
+" In this field, you would need to provide the subject for email notification"
+msgstr "Her skriver du inn et emne for e-posten"
+
+#: includes/translations.php:518 includes/translations.php:587
+msgid "Please provide Subject"
+msgstr "Oppgi emne"
+
+#: includes/translations.php:519
+msgid "When Backup is Successfully Scheduled"
+msgstr "Når sikkerhetskopien er utført"
+
+#: includes/translations.php:520
+msgid "When Backup is Successfully Generated"
+msgstr "Når sikkerhetskopien er generert"
+
+#: includes/translations.php:521
+msgid "When Backup is Failed"
+msgstr "Når sikkerhetskopien feilet"
+
+#: includes/translations.php:522
+msgid "When Restore is Successfully Completed"
+msgstr "Når tilbakekopieringen er fullført"
+
+#: includes/translations.php:523
+msgid "When Restore is Failed"
+msgstr "Når tilbakekopieringen feilet"
+
+#: includes/translations.php:526
+msgid "Start On"
+msgstr "Start"
+
+#: includes/translations.php:527
+msgid ""
+"In this field, you would need to choose start date from Date Picker for "
+"scheduler to run"
+msgstr "Her skriver du inn startdatoen"
+
+#: includes/translations.php:528
+msgid "Please provide Start Date"
+msgstr "Oppgi startdato"
+
+#: includes/translations.php:529
+msgid "Start Time"
+msgstr "Starttidspunkt"
+
+#: includes/translations.php:530
+msgid ""
+"In this field, you would need to choose a start time for scheduler to run at"
+msgstr "Her skriver du inn starttiden"
+
+#: includes/translations.php:531
+msgid " hrs"
+msgstr "timer"
+
+#: includes/translations.php:532
+msgid " mins"
+msgstr "minutter"
+
+#: includes/translations.php:533
+msgid "Duration"
+msgstr "varighet"
+
+#: includes/translations.php:534
+msgid ""
+"In this field, you would need to choose Time duration for schedule to run. "
+"It could be Hourly or Daily"
+msgstr ""
+"Her skriver du inn når du ønsker at oppgaven skal utføres. Kan være daglig "
+"eller pr time"
+
+#: includes/translations.php:535
+msgid "Hourly"
+msgstr "Hver time"
+
+#: includes/translations.php:536
+msgid "Daily"
+msgstr "Daglig"
+
+#: includes/translations.php:537
+msgid "End On"
+msgstr "Slutt"
+
+#: includes/translations.php:538
+msgid ""
+"If you would like to end schedule on a specific date, then you would need to "
+"choose on vice-versa"
+msgstr ""
+"Dersom du ønsker å avslutte oppgaven på en spesifikk dato, må du velge dette"
+
+#: includes/translations.php:539
+msgid "On"
+msgstr "Den"
+
+#: includes/translations.php:540
+msgid "End Date"
+msgstr "Sluttdato"
+
+#: includes/translations.php:541
+msgid "In this field, you would need to choose end date for Scheduler"
+msgstr "Her skriver du inn sluttdato for oppgaven"
+
+#: includes/translations.php:542
+msgid "Please provide End Date"
+msgstr "Oppgi sluttdato"
+
+#: includes/translations.php:543
+msgid "Repeat Every"
+msgstr "Repeter hver"
+
+#: includes/translations.php:544
+msgid ""
+"In this field, you would need to provide repetition for the scheduler. The "
+"scheduler would run on selected values from drop-down."
+msgstr "Her oppgir du repetisjonsintervallet for oppgaven. "
+
+#: includes/translations.php:545
+msgid "Time Zone"
+msgstr "Tidssone"
+
+#: includes/translations.php:546
+msgid ""
+"In this field, you would need to choose Time Zone so that the scheduler runs "
+"on time zone accordingly"
+msgstr ""
+"Her velger du tidssone, så oppgaveutførelsen blir utført i henhold til din "
+"tidssone"
+
+#: includes/translations.php:549
+msgid ""
+"In this field, you would need to choose Enable to automatically get notified "
+"by an email when the backup is successfully scheduled"
+msgstr ""
+"Her merker du av hvis du ønsker å motta en e-post når sikkerhetskopien er "
+"utført"
+
+#: includes/translations.php:550
+msgid ""
+"In this field, you would need to choose Enable to automatically get notified "
+"by an email when the backup is successfully generated"
+msgstr ""
+"Her merker du av hvis du ønsker å motta en e-post når sikkerhetskopien er "
+"generert"
+
+#: includes/translations.php:551
+msgid ""
+"In this field, you would need to choose Enable to automatically get notified "
+"by an email when backup is failing to complete, generate or schedule"
+msgstr ""
+"Her merker du av hvis du ønsker å motta en e-post når sikkerhetskopien feiler"
+
+#: includes/translations.php:552
+msgid ""
+"In this field, you would need to choose Enable to automatically get notified "
+"by an email when restore is successfully completed"
+msgstr ""
+"Her merker du av hvis du ønsker å motta en e-post når tilbakekopieringen er "
+"utført"
+
+#: includes/translations.php:553
+msgid ""
+"In this field, you would need to choose Enable to automatically get notified "
+"by an email when restore is failing to complete, generate or schedule"
+msgstr ""
+"Her merker du av hvis du ønsker å motta en e-post dersom tilbakekopieringen "
+"feiler"
+
+#: includes/translations.php:554
+msgid "Email when a backup is Successfully Scheduled"
+msgstr "E-post når sikkerhetskopieringen er planlagt"
+
+#: includes/translations.php:555
+msgid "Email when a backup is Successfully Generated"
+msgstr "E-post når sikkerhetskopien er generert"
+
+#: includes/translations.php:556
+msgid "Email when a backup is Failed"
+msgstr "E-post når sikkerhetskopieringen feiler"
+
+#: includes/translations.php:557
+msgid "Email when Restore is Successfully Completed"
+msgstr "E-post når tilbakekopieringen er fullført"
+
+#: includes/translations.php:558
+msgid "Email when Restore is Failed"
+msgstr "E-post dersom tilbakekopieringen feiler"
+
+#: includes/translations.php:561
+msgid "Automatic Plugin Updates"
+msgstr "Automatiske oppdateringer"
+
+#: includes/translations.php:562
+msgid ""
+"If you would like that plugin would be automatically updated whenever there "
+"is a new version available, then choose enable or vise-versa from drop-down"
+msgstr "Dersom du vil at tillegget skal oppdateres automatisk, velg dette"
+
+#: includes/translations.php:563
+msgid "Maintenance Mode"
+msgstr "Vedlikeholdsmodus"
+
+#: includes/translations.php:564
+msgid ""
+"If you would like to show maintenance message, then you would need to choose "
+"enable or vice-versa from drop down. Maintenance Mode automatically gets "
+"enabled or disabled while the database is restored"
+msgstr ""
+"Dersom du vil vise en vedlikeholdsmelding må du velge dette i "
+"nedtrekksmenyen. Vedlikeholdsmodusen aktiveres / deaktiveres automatisk når "
+"databasen gjenopprettes"
+
+#: includes/translations.php:565
+msgid "Maintenance Mode Message"
+msgstr "Melding for vedlikeholdsmodus"
+
+#: includes/translations.php:566
+msgid ""
+"In this field you will provide message that would be shown when Maintenance "
+"Mode is enabled."
+msgstr ""
+"Her skriver du inn meldingen som skal vises når vedlikeholdsmodusen er "
+"aktivert"
+
+#: includes/translations.php:567
+msgid "Please provide Message"
+msgstr "Skriv inn melding"
+
+#: includes/translations.php:568
+msgid "Remove Tables At Uninstall"
+msgstr "Fjern tabeller ved avinstallasjon"
+
+#: includes/translations.php:569
+msgid ""
+"If you would like to remove tables at deletion of plugin then you would need "
+"to choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker at tabellene skal slettes når du fjerner et tillegg, må du "
+"aktivere / deaktivere det i nedtrekksmenyen."
+
+#: includes/translations.php:572
+msgid "Backup to Dropbox"
+msgstr "Sikkerhetskopier til DropBox"
+
+#: includes/translations.php:573
+msgid ""
+"In this field, you would need to provide App Key, which you will get after "
+"configuring your dropbox account"
+msgstr ""
+"Her må du oppgi en appnøkkel som du mottar når du har konfigurert din "
+"DropBox-konto"
+
+#: includes/translations.php:574
+msgid "Please provide valid App key"
+msgstr "Oppgi en gyldig appnøkkel"
+
+#: includes/translations.php:575
+msgid "App Secret"
+msgstr "Hemmelig frase"
+
+#: includes/translations.php:576
+msgid ""
+"In this field, you would need to provide App Secret here, which will you get "
+"after configuring your Dropbox account"
+msgstr ""
+"Her må du opp gi den hemmelige frasen som du får etter å ha konfigurert din "
+"DropBox - konto"
+
+#: includes/translations.php:577
+msgid "Please provide valid App Secret"
+msgstr "Oppgi en gyldig frase"
+
+#: includes/translations.php:578
+msgid ""
+"If you would like to store your Backup over Dropbox then you would need to "
+"choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker å lagre sikkerhetskopien i DropBox, må du aktivere / "
+"deaktivere dette fra nedtrekksmenyen"
+
+#: includes/translations.php:579
+msgid "Get your Dropbox App key & App Secret"
+msgstr "Få din DropBox sikkerhetsfrase og sikkerhetsnøkkel"
+
+#: includes/translations.php:582
+msgid "Backup to Email"
+msgstr "Sikkerhetskopier til epost"
+
+#: includes/translations.php:583
+msgid ""
+"If you would like to store your Backup on Email then you would need to "
+"choose enable or vice-versa from drop down"
+msgstr ""
+"Dersom du ønsker å motta sikkerhetskopien på e-post, må du aktivere / "
+"deaktivere det fra nedtrekksmenyen"
+
+#: includes/translations.php:584
+msgid "Email Address"
+msgstr "E-postadresse"
+
+#: includes/translations.php:586
+msgid ""
+"In this field, you would need to provide the subject for email notification "
+msgstr "Her må du angi et emne for meldingen"
+
+#: includes/translations.php:590
+msgid "Backup to FTP"
+msgstr "Sikkerhetskopier til FTP"
+
+#: includes/translations.php:591
+msgid ""
+"If you would like to store your Backup on FTP then you would need to choose "
+"enable or vice-versa from drop down"
+msgstr ""
+"Om du ønsker å sikkerhetskopiere til FTP, må du aktivere / deaktivere dette "
+"fra nedtrekksmenyen"
+
+#: includes/translations.php:592
+msgid "Host"
+msgstr "Vert"
+
+#: includes/translations.php:593
+msgid "In this field, you would need to provide a valid FTP host"
+msgstr "Her må du angi en gyldig FTP vert"
+
+#: includes/translations.php:594
+msgid "Please provide your FTP Host"
+msgstr "Oppgi FTP vert"
+
+#: includes/translations.php:596
+msgid "In this field, you would need to provide valid FTP Username"
+msgstr "Her må du oppgi et gyldig FTP brukernavn"
+
+#: includes/translations.php:597
+msgid "Please provide your FTP Username"
+msgstr "Oppgi ditt FTP brukernavn"
+
+#: includes/translations.php:598
+msgid "Password"
+msgstr "Passord"
+
+#: includes/translations.php:599
+msgid "In this field, you would need to provide valid FTP Password"
+msgstr "Her må du oppgi et gyldig passord for FTP kontoen"
+
+#: includes/translations.php:600
+msgid "Please provide your FTP Password"
+msgstr "Oppgi FTP passordet"
+
+#: includes/translations.php:601
+msgid "Remote Path"
+msgstr "Ekstern sti"
+
+#: includes/translations.php:602
+msgid ""
+" this field, you would need to provide Remote Path, where you would like to "
+"store your backup on the server"
+msgstr ""
+"Her må du oppgi den eksterne stien, der du vil at sikkerhetskopien skal "
+"lagres på derveren"
+
+#: includes/translations.php:603
+msgid "Please provide your Remote Path"
+msgstr "Oppgi ekstern sti"
+
+#: includes/translations.php:604
+msgid "Protocol"
+msgstr "Protokoll"
+
+#: includes/translations.php:605
+msgid ""
+"In this field, you would need to a Protocol according to your server. You "
+"would need to choose FTP, FTPS or SFTP over SSH"
+msgstr ""
+"Her må du oppgi en protokoll i henhold til din server. Du må velge mellom "
+"FTP, FTPS eller SFTP over SSH"
+
+#: includes/translations.php:606
+msgid "FTPS"
+msgstr "FTPS"
+
+#: includes/translations.php:607
+msgid "SFTP over SSH"
+msgstr "SFTP over SSH"
+
+#: includes/translations.php:608
+msgid "Login Type"
+msgstr "Innloggingstype"
+
+#: includes/translations.php:609
+msgid "In this field, you would need to choose login type."
+msgstr "Her velger du innloggingstype"
+
+#: includes/translations.php:610
+msgid "Username & Password"
+msgstr "Brukernavn og passord"
+
+#: includes/translations.php:611
+msgid "Username Only"
+msgstr "Kun brukernavn"
+
+#: includes/translations.php:612
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: includes/translations.php:613
+msgid "No Login"
+msgstr "Ingen innlogging"
+
+#: includes/translations.php:614
+msgid "Port"
+msgstr "Port"
+
+#: includes/translations.php:615
+msgid ""
+"In this field, you would need to provide Port Number related to your "
+"Protocol you are going to use"
+msgstr "Her må du oppgi portnummeret som stemmer med protokollen du bruker"
+
+#: includes/translations.php:616
+msgid "Please provide Port Number"
+msgstr "Oppgi portnummer"
+
+#: includes/translations.php:617
+msgid "FTP Mode"
+msgstr "FTP modus"
+
+#: includes/translations.php:618
+msgid "In this field, you would need to choose the mode of FTP"
+msgstr "Her må du angi FTP modus"
+
+#: includes/translations.php:619
+msgid "Active"
+msgstr "Aktiv FTP"
+
+#: includes/translations.php:620
+msgid "Passive"
+msgstr "Passiv FTP"
+
+#: includes/translations.php:623
+msgid "Scheduler"
+msgstr "Planlegger"
+
+#: includes/translations.php:624
+msgid "Hours"
+msgstr "Timer"
+
+#: includes/translations.php:625
+msgid "Hour"
+msgstr "Time"
+
+#: includes/translations.php:628
+msgid "Backup to Google Drive"
+msgstr "Sikkerhetskopier til Google Drive"
+
+#: includes/translations.php:629
+msgid ""
+" If you would like to store your Backup over Google Drive then you would "
+"need to choose enable or vice-versa from drop down "
+msgstr ""
+"Dersom du vil lagre sikkerhetskopien på Google Drive, må du aktivere / "
+"deaktivere dette fra nedtrekksmenyen"
+
+#: includes/translations.php:630
+msgid "Client ID"
+msgstr "Klient ID"
+
+#: includes/translations.php:631
+msgid ""
+"In this field, you would need to provide Client Id. It is an alphanumeric "
+"string which you will get by signing-in to Google Drive account"
+msgstr ""
+"Her må du angi en klientID. Dette er en alfanumerisk streng du får ved å "
+"logge inn på din Google Drive konto"
+
+#: includes/translations.php:632
+msgid "Please provide Client Id"
+msgstr "Oppgi klientID"
+
+#: includes/translations.php:633
+msgid "Client Secret"
+msgstr "Klientnøkkel"
+
+#: includes/translations.php:634
+msgid ""
+"In this field, you would need to provide Client Secret here, which will you "
+"get after configuring your Google Drive account. Client Secret is like a "
+"secret key which is needed to configure your account"
+msgstr ""
+"Her må du angi din kliennøkkel. Denne får du når du har konfigurert din "
+"Google Drive konto. Klientnøkkelen er som en sikkerhetsnøkkel som trengs for "
+"å konfigurere kontoen"
+
+#: includes/translations.php:635
+msgid "Please provide Client Secret"
+msgstr "Oppgi klientnøkkel"
+
+#: includes/translations.php:636
+msgid "Get your Google Drive Client Id & Client Secret"
+msgstr "Få din Google Drive KliendID og Klientnøkkel"
+
+#: includes/translations.php:640
+msgid "Premium Edition Features :"
+msgstr "Innhold i premium versjonen"
+
+#: includes/translations.php:641
+msgid "* FTP Require PHP Version 5.3.0 or Greater"
+msgstr "* FTP krever PHP versjon 5.3.0 eller høyere"
+
+#: includes/translations.php:642
+msgid "Premium Editions"
+msgstr "Premiumversjon"
+
+#~ msgid "Roles & Capabilities have been saved Successfully"
+#~ msgstr "Roller og kapabiliteter ble lagret"
+
+#~ msgid "The License has been activated Successfully"
+#~ msgstr "Lisensen ble aktivert!"
+
+#~ msgid "The Backup has been Successfully Scheduled"
+#~ msgstr "Sikkerhetskopien ble vellykket planlagt"
+
+#~ msgid "Dropbox Settings have been saved Successfully"
+#~ msgstr "DropBox inntillingene ble lagret"
+
+#~ msgid "Error! Unfortunately, Restore of the Backup has Failed!"
+#~ msgstr "Feil! Beklager, men gjenoppretting av sikkerhetskopien feilet!"
+
+#~ msgid "Restoring of Backup has been Completed Successfully"
+#~ msgstr "Tilbakekopieringen ble fullført!"
+
+#~ msgid "Are you sure you would like to Restore this Backup?"
+#~ msgstr "Er du sikker på at du vil tilbakekopiere denne sikkerhetskopien?"
+
+#~ msgid "Please choose a specific Backup File to restore!"
+#~ msgstr "Velg hvilken sikkerhetskopi du ønsker å gjenopprette!"
+
+#~ msgid "In this field, you would need to choose a Backup File to restore"
+#~ msgstr "Her må du velge en sikkerhetskopi å tilbakekopiere"
+
+#~ msgid "Backups have been Purged Successfully"
+#~ msgstr "Sikkerhetskopiene ble ryddet"
+
+#~ msgid "Are you sure you want to Purge Backups?"
+#~ msgstr "Er du sikker på at du vil rydde opp i sikkerhetskopiene?"
+
+#~ msgid "Dropbox Settings are not configured!"
+#~ msgstr "DropBox innstillingene er ikke konfigurert!"
+
+#~ msgid "Please wait till Google Drive Settings gets validated!"
+#~ msgstr "Vent til Google Drive sine innstillinger er validert!"
+
+#~ msgid "OneDrive Settings have been saved Successfully"
+#~ msgstr "OneDrive innstillingene ble lagret"
+
+#~ msgid "Please wait till OneDrive Settings gets validated!"
+#~ msgstr "Vent til OneDrive innstillingene er validert!"
+
+#~ msgid "Invalid Application Id. Please rectify and try again!"
+#~ msgstr "Ugyldig applikasjonsID. Prøv igjen!"
+
+#~ msgid "Invalid Client Secret. Please rectify and try again!"
+#~ msgstr "Ugyldig klientnøkkel. Prøv igjen!"
+
+#~ msgid ""
+#~ "Error establishing a OneDrive connection or Access Token got Expired!"
+#~ msgstr "Kunne ikke koble til OneDrive!"
+
+#~ msgid ""
+#~ "Backup couldn't be uploaded to OneDrive. Please re-authenticate and try "
+#~ "again!"
+#~ msgstr "Sikkerhetskopien kunne ikke lastes opp til OneDrive. Prøv igjen."
+
+#~ msgid "Google Drive Settings have been saved Successfully"
+#~ msgstr "Google Drive - innstillingene ble lagret"
+
+#~ msgid "Google Drive Settings are not configured!"
+#~ msgstr "Google Drive - innstillingene er ikke konfigurert!"
+
+#~ msgid ""
+#~ "Error establishing a Google Drive connection or Access Token got Expired!"
+#~ msgstr "Kunne ikke koble til Google Drive!"
+
+#~ msgid "Amazon S3 Settings have been saved Successfully"
+#~ msgstr "Amazon S3 - innstillingene er lagret"
+
+#~ msgid "Invalid Access Key or Secret Key. Please rectify and try again!"
+#~ msgstr "Ugyldig tilgangsnøkkel eller sikkerhetsfrase. Prøv igjen!"
+
+#~ msgid ""
+#~ "Backup couldn't be uploaded to amazons3. Please re-authenticate and try "
+#~ "again!"
+#~ msgstr "Kunne ikke laste opp sikkerhetskopien til Amazon S3. Prøv igjen!"
+
+#~ msgid ""
+#~ "Error establishing a Amazon S3 connection or Access Token got Expired!"
+#~ msgstr "Kunne ikke koble til Amazon S3! "
+
+#~ msgid "Amazon S3 Settings are not configured!"
+#~ msgstr "Amazon S3 - innstillingene er ikke konfigurert!"
+
+#~ msgid "Invalid Username or API Key. Please rectify and try again!"
+#~ msgstr "Ugyldig brukernavn eller API nøkkel. Prøv igjen!"
+
+#~ msgid "Rackspace Settings have been saved Successfully"
+#~ msgstr "Rackspace - innstillingene ble lagret"
+
+#~ msgid "Rackspace Settings are not configured!"
+#~ msgstr "Rackspace - innstillingene er ikke konfigurert!"
+
+#~ msgid "Please wait till Microsoft Azure Settings gets validated!"
+#~ msgstr "Vent til Microsoft Azure - innstillingene blir validert!"
+
+#~ msgid "Invalid Account Name or Access Key. Please rectify and try again!"
+#~ msgstr "Ugyldig kontonavn eller tilgangsnøkkel. Prøv igjen!"
+
+#~ msgid "Invalid Container Name. Please rectify and try again!"
+#~ msgstr "Ugyldig kontainernavn. Prøv igjen!"
+
+#~ msgid "Microsoft Azure settings have been saved Successfully"
+#~ msgstr "Microsoft Azure - innstillingene ble lagret"
+
+#~ msgid "Microsoft Azure Settings are not configured!"
+#~ msgstr "Microsoft Azure - innstillingene er ikke konfigurert!"
+
+#~ msgid ""
+#~ "Backup couldn't be uploaded to Microsoft Azure. Please re-authenticate "
+#~ "and try again!"
+#~ msgstr ""
+#~ "Sikkerhetskopien kunne ikke lastes opp til Microsoft Azure. Prøv igjen!"
+
+#~ msgid ""
+#~ "Backup couldn't be uploaded to Rackspace. Please re-authenticate and try "
+#~ "again!"
+#~ msgstr "Sikkerhetskopien kunne ikke lastes opp til Rackspace. Prøv igjen!"
+
+#~ msgid ""
+#~ "Error establishing a Rackspace connection or Access Token got Expired!"
+#~ msgstr "Kunne ikke koble til Rackspace"
+
+#~ msgid ""
+#~ "Error establishing a Microsoft Azure connection or Access Token got "
+#~ "Expired!"
+#~ msgstr "Kunne ikke koble til Microsoft Azure"
+
+#~ msgid ""
+#~ "Backup couldn't be uploaded to Dropbox. Please re-authenticate and try "
+#~ "again!"
+#~ msgstr "Sikkerhetskopien kunne ikke lastes opp til DropBox. Prøv igjen!"
+
+#~ msgid "Dropbox (Not configured!)"
+#~ msgstr "DropBox (ikke konfigurert!)"
+
+#~ msgid "OneDrive (Not configured!)"
+#~ msgstr "OneDrive (ikke konfigurert!)"
+
+#~ msgid "OneDrive Settings are not configured!"
+#~ msgstr "OneDrive - innstillingene er ikke konfigurert!"
+
+#~ msgid "Google Drive (Not configured!)"
+#~ msgstr "Google Drive (ikke konfigurert!)"
+
+#~ msgid "Amazon S3 (Not configured!)"
+#~ msgstr "Amazon S3 (ikke konfigurert!)"
+
+#~ msgid "Rackspace (Not configured!)"
+#~ msgstr "Rackspace (ikke konfigurert!)"
+
+#~ msgid "Microsoft Azure (Not configured!)"
+#~ msgstr "Microsoft Azure (ikke konfigurert!)"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Viktig informasjon!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Backup Bank Business Edition "
+#~ "and now you would need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Gratulerer! Du har nylig kjøpt Backup Bank Business Edition og nå trenger "
+#~ "du bare å aktivere lisensen for å låse opp!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Fyll inn informasjonen og klikk på \"Valider lisens\" for å låse opp"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr "Om du støter på noen problemer, kan du kontakte oss på"
+
+#~ msgid "Product Name"
+#~ msgstr "Produktnavn"
+
+#~ msgid "In this field, you would be able to see your Installed Product"
+#~ msgstr "Her ser du hvilke(t) produkt(er) du har installert"
+
+#~ msgid "Current Version"
+#~ msgstr "Nåværende versjon"
+
+#~ msgid ""
+#~ "In this field, you would be able to see your Installed Product Version"
+#~ msgstr "Her kan du se hvilken versjon du har installert"
+
+#~ msgid "Website URL"
+#~ msgstr "Nettside URL"
+
+#~ msgid "In this field, you would be able to see your Website URL"
+#~ msgstr "Her ser du nettsiden din"
+
+#~ msgid "Order ID"
+#~ msgstr "Ordre ID"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Order ID which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Her må du oppgi Ordre ID som du fikk tilsendt på e-post sammen med en "
+#~ "nedlastingslenke. Dette brukes for å validere."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Oppgi Ordre ID du fikk etter bestillingen"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your API Key which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Her må du oppgi din API - nøkkel, som du mottok på e-post etter å ha "
+#~ "bestilt produktet. Det fulgte også med en nedlastingslenke."
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Oppgi API - nøkkelen du mottok"
+
+#~ msgid "Validate License"
+#~ msgstr "Valider lisens"
+
+#~ msgid "API Key"
+#~ msgstr "API nøkkel"
+
+#~ msgid ""
+#~ "In this field you will provide message that would be shown when "
+#~ "Maintenance Mode is enabled"
+#~ msgstr ""
+#~ "Her skriver du inn meldingen som skal vises når vedlikeholdsmodusen er "
+#~ "aktivert"
+
+#~ msgid "In this field, you would need to choose login type"
+#~ msgstr "Her velger du innloggingstype"
+
+#~ msgid ""
+#~ "* Amazon S3 Require PHP Version 5.5.0 or Greater And Curl Version 7.16.2 "
+#~ "or Greater"
+#~ msgstr ""
+#~ "Amazon S3 krever PHP versjon 5.5.0 eller høyere, og Curl versjon 7.16.2 "
+#~ "eller høyere"
+
+#~ msgid "* Rackspace Require PHP Version 5.4 or Greater"
+#~ msgstr "Rackspace krever PHP versjon 5.4 eller høyere"
+
+#~ msgid "* Micrsoft Azure Require PHP Version 5.5.0 or Greater"
+#~ msgstr "Microsoft Azure krever PHP versjon 5.5.0 eller høyere"
+
+#~ msgid "* Curl is not enabled, kindly contact your service provider"
+#~ msgstr "Curl er ikke aktivert. Ta kontakt med din tjenesteleverandør."
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Backup "
+#~ "Bank. Please contact your WebHost to setup these extensions on your "
+#~ "server."
+#~ msgstr ""
+#~ "Disse phputvidelsene ble ikke funnet på serveren, eller curl er "
+#~ "deaktivert. Dette kan skape noen problemer når vi konfigurerer "
+#~ "sikkerhetskopibanken. Ta kontakt med din tjenesteleverandør for å sette "
+#~ "opp disse tilleggene."
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Backup Bank Developer "
+#~ "Edition and now you would need to activate the license in order to unlock "
+#~ "it!"
+#~ msgstr ""
+#~ "Gratulerer! Du har nå kjøpe Backup Bank utvikleredition og nå må du "
+#~ "aktivere lisensen for å låse opp"
+
+#~ msgid "Amazon S3 (Only Available in Business and Developer Editions!)"
+#~ msgstr "Amazon S3 (Kun tilgjengelig i Business og Developer versjonen)"
+
+#~ msgid "Google Drive (Only Available in Business and Developer Editions!)"
+#~ msgstr "Google Drive (Kun tilgjengelig i Business og Developer versjonen)"
+
+#~ msgid "Rackspace (Only Available in Business and Developer Editions!)"
+#~ msgstr "Rackspace (Kun tilgjengelig i Business og Developer versjonen)"
+
+#~ msgid "Microsoft Azure (Only Available in Business and Developer Editions!)"
+#~ msgstr ""
+#~ "Microsoft Azure (Kun tilgjengelig i Business og Developer versjonen)"
+
+#~ msgid "OneDrive (Only Available in Business and Developer Editions!)"
+#~ msgstr "OneDrive (Kun tilgjengelig i Business og Developer versjonen)"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Backup Bank Personal Edition "
+#~ "and now you would need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Gratulerer! Du har nylig kjøpt Backup Bank privatutgaven, og nå må du "
+#~ "aktivere lisensen for å låse opp!"
+
+#~ msgid ""
+#~ "This feature is available only in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!"
+#~ msgstr ""
+#~ "Kun tilgjengelig i Business og Developer utgavene!<br>Kjøp for å låse opp!"
+
+#~ msgid "Features Available in Business and Developer Editions :"
+#~ msgstr "Egenskaper i Business og Developer utgaven"
+
+#~ msgid "* Curl is not enabled, Kindly contact your service provider."
+#~ msgstr "* Curl er ikke aktivert. Kontakt din tjenesteleverandør"
+
+#~ msgid ""
+#~ "* Remote Storage to Amazon S3, OneDrive, Rackspace and Microsoft Azure"
+#~ msgstr ""
+#~ "* Ekstern lagring hos Amazon S3, OneDrive, Rackspace og Microsoft Azure"

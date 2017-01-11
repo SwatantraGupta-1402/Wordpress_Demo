@@ -1,0 +1,142 @@
+.form-table th {
+    font-weight: 400;
+    line-height: 1.4em;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    width: 200px;
+}
+
+.form-table td {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 9px;
+    padding: 8px 10px;
+}
+
+.ui-tabs-nav {
+	margin: 16px 0 14px;
+	border-bottom: 1px solid #666;
+	overflow: hidden;
+}
+.ui-tabs-nav li {
+	background: #FBD275;
+	float: left;
+    margin: 0 6px 0 0;
+	border-radius: 6px 6px 0 0;
+	border-style: solid;
+	border-width: 1px 1px 0;
+	border-color: #555;
+	box-shadow: 1px 2px 2px #333;
+	overflow: hidden;
+}
+.ui-tabs-nav li a {
+	float: left;
+	font-size: 13px;
+	color: #333;
+	text-decoration: none;
+	padding: 4px 10px;
+}
+.ui-tabs-nav .ui-tabs-selected a,
+.ui-tabs-nav .ui-state-active a {
+	background: #FFBB22;
+	color: #222;
+}
+
+.ui-tabs-panel {
+	float: left !important;
+	clear: none !important;
+}
+.ui-tabs-panel h3 {
+	font: normal 22px/35px Tahoma, sans-serif;
+	margin: 0;
+	padding-bottom: 5px;
+}
+
+.form-table {
+	width: 700px !important;
+	background: url("../images/honeycomb.png") #CCC;
+	border: 1px double #666;
+	margin-top: 10px;
+	box-shadow: 0px 0px 2px #222;
+}
+
+.form-table tr {border-bottom: 1px solid #BBB;}
+.form-table th {width: 170px !important;}
+.form-table th label {
+    background: #F0F0F0;
+	padding: 3px 6px;
+    border-radius: 3px;
+	box-shadow: 1px 1px 2px #333;
+	display: inline-block;
+	font-size: 12px;
+}
+
+#submit-top {
+	position: absolute;
+	left: 544px;
+	margin: 0;
+}
+.rtl #submit-top {left: 2%;}
+
+.button-save {
+	padding: 8px 55px !important;
+	background: #197CD7 !important;
+	border-radius: 4px !important;
+	border: 1px solid #333 !important;
+	font: bold 14px arial, sans-serif !important;
+	cursor: pointer;
+	color: #FFF !important;
+	text-shadow: 0px 0px 1px #000;
+	box-shadow: 0px 0px 2px #222;
+}
+.button-save:hover {
+	background: #369EFF !important; 
+	border-color: #000 !important;
+	text-shadow: 0px 0px 3px #000;
+	box-shadow: 1px 1px 2px #222;
+}
+
+textarea, input[type="text"]{border: 1px solid #999;}
+textarea:hover, input[type="text"]:hover{border: 1px solid #0A2F89;}
+textarea {
+	resize: none;
+	font-family: Consolas, Monaco, 'Courier New', monospace;
+	font-size: 12px;
+	line-height: 16px;
+	padding: 4px;
+	color: #333 !important;
+}
+
+input.regular-text, input.upload-url {width: 350px;}
+input.text-int {text-align: right; width: 60px;}
+input.color {width: 100px;}
+
+.select {width: 180px;}
+
+
+#wpbody-content .theme-meta-wrap {
+    float: left;
+	left: 735px;
+    margin-left: 8px;
+	margin-right: 8px;
+	position: absolute;
+    width: 22%;
+}
+
+#donate, #theme-info {
+	background-color: #EEE;
+	border: 1px solid #888;
+	border-radius: 3px;
+	box-shadow: 0 0 2px #888;
+}
+
+.postbox h4 {
+    font-size: 14px;
+    margin: 12px 0 15px;
+	text-align: center;
+}
+
+#donate .inside {text-align: center;}
+
+#theme-info .inside {padding-left: 22px;}

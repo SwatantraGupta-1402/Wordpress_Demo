@@ -1,0 +1,82 @@
+.form-group .custom-input-medium
+{
+	margin-right: 0px;
+	width: 49%;
+	float: left;
+	margin-left: 3px !important;
+}
+.custom-input-medium
+{
+	width: 49%;
+}
+.archive-span
+{
+	background:#e5e5e5;
+	margin: 2px 0px 0px 0px;
+	padding:0 2px;
+}
+.progress-bar-position
+{
+	position: fixed;
+	top: 40%;
+	left: 40%;
+	border: 1px solid #a4cd39 !important;
+	background-color: #fff;
+	z-index: 999999;
+}
+.progress-bar-width
+{
+	width: 500px;
+	margin: 20px;
+	border: 1px solid #ccc4c4;
+}
+.progress-info
+{
+	color:#000;
+	text-align: center;
+	width: 512px;
+	margin: 20px;
+}
+.portlet-progress-bar
+{
+	background-color: #a4cd39;
+	padding: 9px;
+	margin-top: -1px;
+	color: rgb(255, 255, 255);
+	font-size: 15px;
+}
+.portlet-progress-message
+{
+	color: #FF0000;
+	margin: 0px 0px 8px 35px !important;
+}
+.modal-body
+{
+		position: relative;
+		padding: 15px !important;
+}
+.modal-footer
+{
+	padding: 15px;
+	text-align: right;
+	border-top: 1px solid #e5e5e5;
+}
+.modal-footer .btn + .btn
+{
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+.btn-danger
+{
+	color: #fff !important;
+	background-color: #F3565D !important;
+	border-color: #f13e46 !important;
+}
+.tech-banker-counter
+{
+	display: none !important;
+}
+.custom-manual-td a
+{
+	text-decoration: none;
+}

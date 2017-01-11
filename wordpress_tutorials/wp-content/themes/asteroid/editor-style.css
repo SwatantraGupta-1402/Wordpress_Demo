@@ -1,0 +1,139 @@
+html {background: #EEE;}
+
+body.mce-content-body {
+    background: #fff;
+	padding: 10px !important;
+	margin: 10px auto;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.55;
+	box-shadow: 0px 0px 3px black;
+}
+
+h1 {font-size: 28px;}
+h2 {font-size: 24px;}
+h3 {font-size: 20px;}
+h4 {font-size: 18px;}
+h5 {font-size: 14px;}
+h6 {font-size: 12px;}
+
+h1, h2, h3, h4, h5, h6 {
+	clear: none;
+	margin: 14px 0 4px 0;
+	font-weight: bold;
+	line-height: 1.2; 
+	text-shadow: 0 1px 1px #999;
+}
+
+p { 
+	margin-top: 4px; 
+	margin-bottom: 12px; 
+}
+
+li {
+	margin-top: 4px;
+	margin-bottom: 6px;
+}
+
+blockquote {
+	background: #E0E0E0;
+    border-left: 6px solid #666;
+	clear: both;
+    margin: 10px;
+    padding: 8px 12px;
+	font-style: italic;
+}
+
+blockquote cite {
+	display: block;
+	margin-top: 8px;
+	text-align: right;
+	font-style: normal;
+	font-size: small;
+}
+
+.rtl blockquote {
+	border-left: none;
+	border-right: 6px solid #666;
+}
+
+.rtl blockquote cite {
+	text-align: left;
+}
+
+pre {
+    background: #EEE;
+    border: 1px solid #CCC;
+    padding: 8px;
+	overflow: auto;
+	-ms-word-wrap: normal;
+	word-wrap: normal;
+}
+
+pre, code {
+	font-size: 13px;
+	line-height: 1.55;
+}
+
+dl {padding-left: 20px;}
+
+.rtl dl {
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+dt {font-weight: bold;}
+
+dd {margin: 0 0 10px;}
+
+table {
+	border-collapse: collapse;
+	width: 98%;
+	margin: 10px auto;
+}
+th {
+	background-color: #DDD;
+	font-weight: normal;
+}
+th, td {
+	border: 1px solid #AAA !important;
+	padding: 8px 10px;
+	font-family: Arimo, Sans-serif;
+	font-size: 14px;
+}
+
+.mceContentBody .wp-caption, .mceContentBody img {
+	max-width: 100%;
+	height: auto;
+}
+
+.alignnone {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.alignleft {
+	float: left;
+	margin: 4px 8px 4px 0;
+}
+.alignright {
+	float: right;
+	margin: 4px 0 4px 8px;
+}
+.aligncenter {
+	display: block;
+	margin: 4px auto;
+}
+
+.wp-caption-text {
+	margin: 0;
+	padding: 0 5px;
+	color: #555;
+	font-size: 12px;
+	line-height: 1.6;
+}
+
+.wp-caption-dd {text-align: left;}
+
+.rtl .wp-caption-dd {text-align: right;}
+
+.mce-wp-nextpage, .mce-wp-more {height: 12px !important;}
